@@ -3,11 +3,6 @@
 # Overstock.com
 - Overstock.com, Inc. is an American internet retailer selling primarily furniture headquartered in Midvale, Utah, near Salt Lake City. Controversial businessman Patrick M. Byrne founded Overstock.com in 1999.
 
-
-<p align="center">
-  <img src="https://cdn.businesstraveller.com/wp-content/uploads/2021/10/booking.com_.jpeg" width="100%" title="hover text">
-</p>
-
 # Snap shots
 <b> Home Page </b>
 
