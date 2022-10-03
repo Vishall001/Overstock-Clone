@@ -22,7 +22,7 @@
 ![Screenshot (1086)](https://user-images.githubusercontent.com/101392029/193529006-d5b823a0-c7de-4b91-83d5-80c4a7470d14.png)
 
 ## Deployed Link
-https://reliable-tanuki-4f48a8.netlify.app/signup.html
+https://reliable-tanuki-4f48a8.netlify.app/
 
 ## Pages & Features
 - Home Page
